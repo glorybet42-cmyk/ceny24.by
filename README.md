@@ -74,3 +74,4 @@
 AI-Augmented Product Manager | Основатель Ceny24.by  
 Email: glorybet423@gmail.com  
 Telegram: @alexof216
+linkedin.com/in/александр-соколов-13b769428
