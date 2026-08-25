@@ -1,127 +1,142 @@
-Александр Соколов
+Aleksandr Sokolov
 AI Automation Engineer / AI-Augmented Product Maker / Junior QA
-📍 Беларусь, удалённая работа
+📍 Belarus, remote
 📞 +375 29 513-36-00
 ✉️ glorybet423@gmail.com
 🔗 LinkedIn
 💻 GitHub
-🌐 Проект Ceny24.by
+🌐 Project Ceny24.by
 
-Обо мне
-Практик по автоматизации бизнес-процессов и AI-агентам. Развернул self-hosted n8n на собственном VPS (Docker, Ubuntu, bash), строю ботов и автоматизации на базе LLM через API (DeepSeek, ChatGPT, OpenRouter). Работаю с REST API, webhooks, JSON, SQL. Умею доводить решение от идеи до стабильной работы, а не только прототипа.
+About Me
+I help businesses automate repetitive tasks using n8n, AI, and Telegram bots. I deployed self-hosted n8n on my own VPS (Docker, Ubuntu, bash). I build workflows that save hours every week — from lead capture and notifications to data processing and LLM-powered analysis.
 
-Запустил собственный B2C-маркетплейс Ceny24.by с нуля, используя AI-инструменты для разработки и аналитики. Прошёл полный цикл: от CustDev и проектирования до деплоя и тестирования.
+I also launched my own B2C marketplace Ceny24.by from scratch, using AI tools for development, analytics, and QA. I went through the full cycle: from idea and CustDev to deployment and testing.
 
-Ключевые компетенции
-Автоматизация и интеграции
+Key Competencies
+Automation & Integration
 n8n (self-hosted, Docker Compose)
 
 REST API, webhooks, JSON
 
 Telegram Bot API, Google Sheets API
 
-Docker, Ubuntu, bash, базовые Nginx, SSL
+Docker, Ubuntu, bash, basic Nginx, SSL
 
-AI и LLM
+AI & LLM
 DeepSeek, ChatGPT, OpenRouter
 
-Промпт-инжиниринг, интеграция LLM через API
+Prompt engineering, LLM integration via API
 
-Понимание RAG (базово), работа с векторными БД (знаком)
+Basic understanding of RAG and vector databases
 
-Инфраструктура
+Infrastructure
 VPS, Docker, Docker Compose
 
-Linux (bash), SSH, настройка окружения
+Linux (bash), SSH, environment setup
 
-CI/CD (базово), деплой на VPS
+Basic CI/CD, deployment to VPS
 
-Данные и аналитика
+Data & Analytics
 SQL (PostgreSQL)
 
-Анализ воронок, метрик, когорт
+Funnels, metrics, cohort analysis
 
-Google Sheets для сбора данных
+Google Sheets for data collection
 
-Тестирование (QA)
-Ручное тестирование веб-приложений
+Testing (QA)
+Manual web application testing
 
 Postman, Chrome DevTools, Figma
 
-Тест-кейсы, чек-листы, баг-репорты
+Test cases, checklists, bug reports
 
-Опыт
+Experience
 AI Automation Engineer / Self-hosted n8n
-Личные проекты | 2026 – н.в.
+Personal projects | 2026 – present
 
-Развернул n8n на VPS (Docker, Ubuntu, bash).
+Deployed n8n on VPS (Docker, Ubuntu, bash).
 
-Создал Telegram-ботов с расписанием:
+Built Telegram bots with schedule:
 
-Погодный агент (парсинг API, форматирование, отправка в Telegram).
+Weather agent: daily forecast from API (formatting, wind direction, precipitation) sent to Telegram at 8:00.
 
-Агент поиска вакансий (парсинг, фильтрация, отправка).
+Job search agent: parses vacancies, filters via LLM, sends results to Telegram.
 
-Подключил OpenRouter API (DeepSeek, ChatGPT) для LLM-анализа.
+Integrated OpenRouter API (DeepSeek, ChatGPT) for LLM analysis.
 
-Работал с REST API, webhooks, JSON, Google Sheets, Telegram Bot API.
+Worked with REST APIs, webhooks, JSON, Google Sheets, Telegram Bot API.
 
 Product Owner / AI-Augmented Product Maker
-Ceny24.by | 2025 – н.в.
+Ceny24.by | 2025 – present
 
-Запустил двухсторонний маркетплейс с нуля.
+Launched a two-sided marketplace from scratch.
 
-Полный цикл: идея → CustDev → roadmap → разработка → деплой → аналитика.
+Full cycle: idea → CustDev → roadmap → development → deployment → analytics.
 
-Использовал AI-инструменты для генерации кода и автоматизации.
+Used AI tools for code generation and automation.
 
-Писал SQL-запросы для анализа поведения пользователей.
+Wrote SQL queries for user behavior analysis.
 
-Развернул продукт на VPS (Ubuntu, Nginx, Gunicorn, SSL).
+Deployed product on VPS (Ubuntu, Nginx, Gunicorn, SSL).
 
-Провёл ручное тестирование, составил тест-кейсы и баг-репорты.
+Performed manual testing, created test cases and bug reports.
 
-Руководитель службы безопасности
+Head of Security Service
 2003 – 2025
 
-Управлял коллективом до 200 человек.
+Managed a team of up to 200 people.
 
-Вёл нормативную документацию, взаимодействовал с госорганами.
+Maintained regulatory documentation, interacted with government authorities.
 
-Анализировал риски, принимал решения в стрессовых ситуациях.
+Analyzed risks, made decisions under stress.
 
-Юридическое образование, комплаенс.
+Legal education, compliance.
 
-Образование
-Skillbox — Инженер по тестированию веб-приложений (2023–2025)
+Featured Projects
+Weather Telegram Bot
+Automated bot that sends daily weather forecast to Telegram every morning at 8:00.
 
-Белорусская государственная сельскохозяйственная академия — Юрист, специализация «Правовое обеспечение бизнеса»
+Built with n8n, REST API, Telegram Bot API, Markdown formatting.
 
-Дополнительно
-Языки: русский (родной), английский (Intermediate: чтение документации, базовое общение)
+Runs on my own VPS with Docker.
 
-Формат: удалённый / гибрид, готов к обсуждению
+Job Search Agent
+Agent that parses vacancies, filters them via LLM (DeepSeek/ChatGPT), and sends results to Telegram.
 
-Портфолио:
+Uses n8n, HTML Extract, OpenRouter API.
 
-GitHub: glorybet42-cmyk/ceny24.by
+Self-hosted n8n on VPS
+Deployed n8n with Docker Compose on Ubuntu VPS.
 
-Сайт: ceny24.by
+Configured timezone, secure cookie, and browserless for Playwright.
 
-LinkedIn: linkedin.com/in/александр-соколов-13b769428
+Ceny24.by
+Two-sided marketplace with geo-search, chat, push notifications, blind auctions.
 
-Почему я
-Практик, а не теоретик: всё, что описано выше, реально работает.
+Tech stack: Python, Flask, PostgreSQL, Redis, WebSockets, Docker, CI/CD.
 
-Умею самостоятельно разбираться в новых инструментах (n8n, Docker, API) и доводить до результата.
+Education
+Skillbox — Web Application Testing Engineer (2023–2025)
 
-Сочетаю техническую грамотность, продуктовое мышление и навыки QA.
+Belarusian State Agricultural Academy — Lawyer, specialization "Legal Support for Business"
 
-Ответственный, нацеленный на устойчивые решения, а не разовые прототипы.
+Languages
+Russian: Native
 
-📬 Контакты
+English: Intermediate (reading documentation, basic communication)
+
+Why Me
+Practitioner, not a theorist: everything described above actually works.
+
+I can independently learn new tools (n8n, Docker, APIs) and deliver results.
+
+I combine technical literacy, product thinking, and QA skills.
+
+Responsible, focused on sustainable solutions, not one-off prototypes.
+
+Contacts
 Email: glorybet423@gmail.com
 
 Telegram: @alexof216
 
-LinkedIn: Александр Соколов
+LinkedIn: linkedin.com/in/александр-соколов-13b769428
