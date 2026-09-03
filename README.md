@@ -43,6 +43,13 @@
 - Telegram: @alexof216
 - LinkedIn: [linkedin.com/in/александр-соколов-13b769428](https://www.linkedin.com/in/александр-соколов-13b769428)
 
+## Скриншоты
+
+![Главный экран](Главная.png)
+![Ответ 1](Ответ%201.png)
+![Ответ 2](Ответ%202.png)
+![Ответ 3](Ответ%203.png)
+
 ## Полное портфолио
 
 Больше проектов в [репозитории portfolio](https://github.com/glorybet42-cmyk/portfolio)
